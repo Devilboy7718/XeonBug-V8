@@ -10,8 +10,8 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "923444844060"
-global.ownername = "Qasim Ali"
+global.ownernomer = "918509647308"
+global.ownername = "im_dev099"
 global.ytname = "YT: GlobalTechInfo"
 global.socialm = "GitHub: GlobalTechInfo"
 global.location = "Pakistan, Karachi, Karachi"
@@ -25,7 +25,7 @@ global.packname = 'Sticker By'
 global.author = 'GlobalTech\n\nContact: +923444844060'
 
 //console view/theme
-global.themeemoji = '🪀'
+global.themeemoji = '💀'
 global.wm = "Global Bot"
 
 //theme link
